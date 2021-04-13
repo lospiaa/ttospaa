@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ttospaa
 - 👀 I’m interested in art,software
 - 🌱 I’m currently learning C, C++, Python, Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
