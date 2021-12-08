@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @ttospaa
-- 👀 I’m interested in art,software
-- 🌱 I’m currently learning C, C++, Python, Java
-- 📫 How to reach me ...
-
-<!---
-ttospaa/ttospaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![hi-hello](https://user-images.githubusercontent.com/81690619/145226694-2a72a27e-e404-406a-a84b-ba51b712896d.gif)
